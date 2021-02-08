@@ -1,0 +1,1 @@
+# Responsive HTML page
